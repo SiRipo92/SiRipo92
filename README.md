@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour👋,je suis Sierra</h1>
+<h1 align="center">Bonjour👋, je suis Sierra</h1>
 <h3 align="center">Franco-Américaine, full stack développeuse, curieuse et passionnée par les technologies web et le tissu aérien</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siripo92&label=Profile%20views&color=0e75b6&style=flat" alt="siripo92" /> </p>
