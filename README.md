@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siripo92" alt="siripo92" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [un site web pour l'association de Badminton à Nanterre](https://github.com/SiRipo92/Badminton-Nanterre)
+- 🔭 Je travaille actuellement en tant que Alternante - Développeuse et Cheffe de Projet à Agexis.
 
-- 🌱 Je suis actuellement en train d'apprendre **l'ingénierie DevOps appliquée, Bootstrap et React.js.**
+- 🌱 Je suis actuellement en train d'apprendre **construire les sites web et APIs en utilisant Django et organiser les gestions de projets de plusieurs marques de mon entreprise.**
 
-- 👯 Je cherche à collaborer sur [divers projets web et applicatifs, l'ajout d'un système de gestion des utilisateurs.](https://github.com/SiRipo92/Badminton-Nanterre)
-
-- 🤝 Je cherche de l'aide pour [utiliser efficacement Bootstrap et React.js pour construire le front-end de mon site WordPress pour l'association de badminton à Nanterre](https://github.com/SiRipo92/Badminton-Nanterre)
+- 🤝 Je cherche de l'aide pour [utiliser l'IA pour automatiser les processus de RH)
 
 - 👨‍💻Vous trouverez des exemples de mes projets à l'adresse suivante [https://www.sierrawebdev.com](https://www.sierrawebdev.com)
 
