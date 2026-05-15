@@ -61,14 +61,6 @@ Back-end is where my focus lives, but I've shipped enough React/Next.js/TypeScri
 
 ---
 
-### 📊 GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiRipo92&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Let's connect
 
 🌐 [sierrawebdev.com](https://www.sierrawebdev.com)  
