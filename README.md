@@ -1,34 +1,76 @@
-<h1 align="center">Bonjour👋, je suis Sierra</h1>
-<h3 align="center">Franco-Américaine, full stack développeuse, curieuse et passionnée par les technologies web et le tissu aérien</h3>
+# Hi, I'm Sierra 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siripo92&label=Profile%20views&color=0e75b6&style=flat" alt="siripo92" /> </p>
+**Python software engineer based in Paris 🇫🇷 🇺🇸. I build back-end systems, AI-powered automation, and data pipelines, with one foot in project management.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siripo92" alt="siripo92" /></a> </p>
+I hold a Bac+4 in software engineering (*ingénierie logicielle*) from OpenClassrooms, completed in June 2026, six months ahead of my original two-year alternance schedule. During that alternance at Centorys (Agexis Group), I led AI and automation projects for the digital transformation team.
 
-- 🔭 Je travaille actuellement en tant que Alternante - Développeuse et Cheffe de Projet à Agexis.
+Back-end is where my focus lives, but I've shipped enough React/Next.js/TypeScript/Tailwind during my alternance to work comfortably across the stack. Frontend fascinates me as the layer that brings apps to life with real performance and interactivity, even if it's not where I'll specialize.
 
-- 🌱 Je suis actuellement en train d'apprendre **construire les sites web et APIs en utilisant Django et organiser les gestions de projets de plusieurs marques de mon entreprise.**
+---
 
-- 🤝 Je cherche de l'aide pour [utiliser l'IA pour automatiser les processus de RH)
+- 🔭 **Currently building** an AI meeting-transcription pipeline (audio → diarization → summary → Google Drive) and a multiplayer 421 dice game in Next.js
+- 🤖 **Leaning into** AI automation, MCP integrations, and data pipelines, both at work and in side projects
+- 🎯 **Ask me about** Python, Django, REST APIs (Swagger/OpenAPI), AI pipelines, MCP, DevOps, or technical documentation (Sphinx/ReadTheDocs)
+- 🌐 **Bilingual** French and English (dual citizen)
+- 🎪 **Off-keyboard** Aerial silks artist on the weekends ([@aerial_silks_sisi](https://instagram.com/aerial_silks_sisi)), because someone has to
 
-- 👨‍💻Vous trouverez des exemples de mes projets à l'adresse suivante [https://www.sierrawebdev.com](https://www.sierrawebdev.com)
+---
 
-- 💬 Interrogez-moi sur **WordPress, CI-CD, Architecture et Design avec les diagrammes UML, bases de données relationnelles**
+### 🛠️ Tech I work with
 
-- 📫 Comment me joindre **ripochesierra@gmail.com**
-
-- 📄 Connaître mes expériences [https://www.linkedin.com/in/sierraripoche/](https://www.linkedin.com/in/sierraripoche/)
-
-- ⚡ Fun fact **Je suis une artiste aérienne, plus précisément une artiste du Tissu Aérien, un sport de cirque, pendant mon temps libre.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sierraripoche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sierraripoche" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/siripo92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="siripo92" height="30" width="40" /></a>
-<a href="https://fb.com/sripoche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sripoche" height="30" width="40" /></a>
-<a href="https://instagram.com/aerial_silks_sisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aerial_silks_sisi" height="30" width="40" /></a>
+**Back-end & data**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Front-end**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
+**Testing, monitoring & security**
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk"/>
+</p>
+
+**DevOps & tooling**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+---
+
+### 🎓 Certifications
+
+- **IBM Applied DevOps Engineering** · Professional Certificate, 9 courses · [Credly](https://www.credly.com/badges/7706f6cc-5d68-4013-ad7a-8b4294616e28/public_url)
+- **IBM DevOps and Software Engineering** · Professional Certificate · [Verify](https://coursera.org/share/a0933939d9622f943a6554d8395aa47d)
+- **Microsoft 365 Fundamentals** · Specialization, 3 courses · [Verify](https://coursera.org/share/c545d4460fcb70c78c16e985b945af78)
+- Additional IBM and Coursera certifications on [LinkedIn](https://linkedin.com/in/sierraripoche) and [Credly](https://www.credly.com/users/sierra-ripoche)
+
+---
+
+### 📊 GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiRipo92&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+---
+
+### 📫 Let's connect
+
+🌐 [sierrawebdev.com](https://www.sierrawebdev.com)  
+💼 [LinkedIn](https://linkedin.com/in/sierraripoche)  
+📧 ripochesierra@gmail.com
